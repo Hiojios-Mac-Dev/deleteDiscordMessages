@@ -1,4 +1,4 @@
-# Undiscord - Delete all messages in a Discord channel or DM
+# Undiscord - Delete all messages in a Discord channel or DM Its fun!
 
 1. Install a **browser extension** for managing **user scripts** (skip if you already have one):
     
